@@ -1,0 +1,57 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "What are the like fractions for <sup>1</sup>&frasl;<sub>3</sub> and <sup>2</sup>&frasl;<sub>5</sub>?",
+        "options": [
+            "./assests/images/1.jpg",
+            "./assests/images/2.jpg",
+            "./assests/images/3.jpg",
+            "./assests/images/4.jpg"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q2",
+        "question": "What is the result of <sup>1</sup>&frasl;<sub>3</sub> + <sup>5</sup>&frasl;<sub>6</sub> when the fractions are converted to like fractions?",
+        "options": [
+            "./assests/images/5.jpg",
+            "./assests/images/6.jpg",
+            "./assests/images/7.jpg",
+            "./assests/images/8.jpg"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q3",
+        "question": "What is the result of <sup>7</sup>&frasl;<sub>10</sub> − <sup>1</sup>&frasl;<sub>4</sub> when the fractions are converted to like fractions?",
+        "options": [
+            "./assests/images/9.jpg",
+            "./assests/images/10.jpg",
+            "./assests/images/11.jpg",
+            "./assests/images/12.jpg"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q4",
+        "question": "What is the result of <sup>2</sup>&frasl;<sub>5</sub> + <sup>3</sup>&frasl;<sub>8</sub> when the fractions are converted to like fractions?",
+        "options": [
+            "./assests/images/13.jpg",
+            "./assests/images/14.jpg",
+            "./assests/images/15.jpg",
+            "./assests/images/16.jpg"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q5",
+        "question": "What is the result of <sup>5</sup>&frasl;<sub>6</sub> − <sup>2</sup>&frasl;<sub>9</sub> when the fractions are converted to like fractions?",
+        "options": [
+            "./assests/images/17.jpg",
+            "./assests/images/18.jpg",
+            "./assests/images/19.jpg",
+            "./assests/images/20.jpg"
+        ],
+        "correct": 3
+    }
+]
